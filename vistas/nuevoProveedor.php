@@ -89,7 +89,7 @@ if(isset($_POST["submit"])){
                     <label for="correo">Correo</label>
                     <input type="text" class="form-control" name="correo" placeholder="Correo" required>
                     </div>
-                </div>
+                    </div>
                 <div class="row" style="margin-top: 20px">
                     <div class="col">
                     <label for="id">Id del Proveedor</label>
